@@ -1,15 +1,15 @@
 #################################
-# Etiraf Club Bot #
+# itiraf Club Bot #
 #################################
-# Repo Sahibi - aykhan_s
-# Telegram - t.me/aykhan_s
-# Support - t.me/RoBotlarimTg
-# GitHub - aykhan026
+# Repo Sahibi - meyitzade47
+# Telegram - t.me/meyitzade47 
+# Support - t.me/hirasettr
+# GitHub - 01-Meyitzade-01
 #################################
 #################################
-# Bu repo sıfırdan yığılıb
-# Başka github hesabına yükləməy olmaz
-# Reponu öz adına çıxaran peysərdi...!!!
+# Bu repo sıfırdan yapıldı
+# Başka github hesabına yüklüme olmaz
+# Reponu kendi adına importla...!!!
 #################################
 #################################
 #
@@ -17,7 +17,7 @@ import os
 import heroku3
 from telethon import TelegramClient, events
 #
-# Buranı qurdalama
+# Buranı kurcalama
 # Yalnız deploy buttonuyla botunu yarat
 # 
 api_id = int(os.environ.get("APP_ID"))
@@ -39,7 +39,7 @@ gonderildi = os.environ.get("gonderildi")
 support = os.environ.get("support")
 sahib = os.environ.get("sahib")
 #
-# RoBotlarimTg
-# RoBotlarimTg
-# RoBotlarimTg
+# Hirasettr 
+# Hirasettr 
+# Hirasettr 
 
