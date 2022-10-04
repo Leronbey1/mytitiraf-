@@ -12,7 +12,7 @@
 
 ----
 ### ♿ Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/01-Meyitzade-01/mytitiraf-.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Leronbey1/mytitiraf-.git)
 
 
 ### ⚠️ Not
