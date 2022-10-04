@@ -1,10 +1,10 @@
 #################################
 # Etiraf Club Bot #
 #################################
-# Repo Sahibi - meyitzade47
-# Telegram - t.me/meyitzade47
-# Support - t.me/hirasettr
-# GitHub - 01-Meyitzade-01
+# Repo Sahibi - serserizarog
+# Kanalımız - t.me/uslanmazarsiv
+# Support - t.me/UslanmazKadro
+# GitHub - Leronbey1
 #################################
 # Bu repo sıfırdan yapıldı
 # Başka github hesabına yükleme olmaz
@@ -49,9 +49,9 @@ async def start(event):
                       [
                        Button.inline("💌 itiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 itiraf Kanalı', f'https://t.me/hirasetitiraf')],
-                      [Button.url('📣 Support', f'https://t.me/hirasettr'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/meyitzade47')]
+                      [Button.url('📜 itiraf Kanalı', f'https://t.me/Uslanmazitraf')],
+                      [Button.url('📣 Support', f'https://t.me/Uslanmazkadro'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/SerseriZarog')]
                     ),
                     link_preview=False)
 
@@ -68,9 +68,9 @@ async def handler(event):
                       [
                        Button.inline("💌 itiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 itiraf Kanalı', f'https://t.me/hirasetitiraf')],
-                      [Button.url('📣 Support', f'https://t.me/hirasettr'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/meyitzade47')]
+                      [Button.url('📜 itiraf Kanalı', f'https://t.me/Uslanmazitraf')],
+                      [Button.url('📣 Support', f'https://t.me/UslanmazKadro'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/SerseriZarog')]
                     ),
                     link_preview=False)
 
